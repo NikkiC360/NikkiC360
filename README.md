@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikkiC360
 - 👀 I’m interested in everything Cyber related 
-- 🌱 I’m currently working for a MSSP and we provode XDR EDR MTP as managed services, I also volunteer for The Cyber Helplie and I am one of the co founders of Respect in Security
+- 🌱 I’m currently working for a MSSP and we provode XDR EDR MTP as managed services, I also volunteer for The Cyber Helpline and I am one of the co founders of Respect in Security
 - 💞️ I’m looking to collaborate with anyone that has great ideas 
 - 📫 How to reach me nikkiw@custodian360.com
